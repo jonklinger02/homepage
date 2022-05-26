@@ -1,0 +1,175 @@
+{
+  "professional": [
+    {
+      "id": 0,
+      "contract": false,
+      "positionTitle": "Design Engineer",
+      "summary": "Industrial PCB Electro-Mechanical Automation",
+      "company": "CTI Systems",
+      "agency": "none",
+      "location": "Sanford, NC",
+      "dateTo": "2012-03-01",
+      "dateFrom": "2011-05-15",
+      "responsibilities": [
+        "Configure and customize conveyors and buffers for printed circuit boards.",
+        "Size servos, linear actuators, belt drives.",
+        "Support assembly and fabrication shops with machine production."
+      ]
+    },
+    {
+      "id": 1,
+      "contract": true,
+      "positionTitle": "Engineer II",
+      "summary": "Heavy Equipment Design",
+      "company": "Caterpillar, inc",
+      "agency": "Belcan Engineering",
+      "location": "Sanford, NC",
+      "dateTo": "2014-01-01",
+      "dateFrom": "2012-03-01",
+      "responsibilities": [
+        "Managed engineering engagement risk by employing simulations and rapid prototyping to reduce initial outlay and prevent costly mistakes.",
+        "Developed production plans, integrating cross-functional teams to streamline operations.",
+        "Reviewed specifications and technical manuals for compliance with ongoing operational goals and conformity to applicable regulations."
+      ]
+    },
+    {
+      "id": 2,
+      "contract": false,
+      "positionTitle": "R&D Engineer",
+      "summary": "Consumer Product Design Engineer",
+      "company": "Newell Rubbermaid",
+      "agency": "none",
+      "location": "Huntersville, NC",
+      "dateTo": "2015-10-10",
+      "dateFrom": "2014-03-01",
+      "responsibilities": [
+        "Proved successful working within tight deadlines and fast-paced atmosphere.",
+        "Resolved conflicts and negotiated mutually beneficial agreements between parties as a liaison between industrial design and manufacturing.",
+        "Reviewed predictive analysis data to make engineering decisions about product strength and materials."
+      ]
+    },
+    {
+      "id": 3,
+      "contract": false,
+      "positionTitle": "Owner/Operator",
+      "summary": "Temporary-Project Based Design Engineering Consulting",
+      "company": "Imagine Design NC, LLC",
+      "agency": "none",
+      "location": "Raleigh, NC",
+      "dateTo": "2015-10-10",
+      "dateFrom": "2019-08-01",
+      "responsibilities": [
+        "Consulted with customers to assess needs and propose optimal solutions.",
+        "Designed manufacturing fixtures for Fortune 500 Companies"
+      ]
+    },
+    {
+      "id": 4,
+      "contract": true,
+      "positionTitle": "Prototype Project Management Engineer",
+      "summary": "Heavy Equipment Project Management",
+      "company": "Caterpilaar, inc",
+      "agency": "EASi, LLC",
+      "location": "Clayton, NC",
+      "dateTo": "2016-03-01",
+      "dateFrom": "2017-01-01",
+      "responsibilities": [
+        "Created plans and communicated deadlines to complete projects on time.",
+        "Used coordination and planning skills to achieve results according to schedule.",
+        "Managed daily shop, technician, and machine maintenance orders and activities.",
+        "Planned test bed and prototype builds; implemented tracking strategies for prototype machines to ensure validation efficacy"
+      ]
+    },
+    {
+      "id": 5,
+      "contract": true,
+      "positionTitle": "Product Engineer II",
+      "summary": "Precision Golf Equipment Design Engineer",
+      "company": "John Deere",
+      "agency": "RFA Engineering",
+      "location": "Fuquay-Varina, NC",
+      "dateTo": "2019-04-15",
+      "dateFrom": "2018-04-15",
+      "responsibilities": [
+        "Documented and updated build, quality and performance records.",
+        "Prepared complete and accurate design documentation for precision golf turf management products.",
+        "Collaborated with cross-functional teams to develop and implement product improvements to enhance performance."
+      ]
+    },
+    {
+      "id": 6,
+      "contract": true,
+      "positionTitle": "Product Engineer III",
+      "summary": "Precision Golf Equipment Design Engineer",
+      "company": "John Deere",
+      "agency": "RFA Engineering",
+      "location": "Fuquay-Varina, NC",
+      "dateTo": "2019-08-15",
+      "dateFrom": "2019-04-15",
+      "responsibilities": [
+        "Applied comprehensive understanding of high-volume manufacturing processes and materials to optimize designs",
+        "Drove continuous improvement culture in engineering to provide clear product design standards, improve manufacturability through enhanced documentation and reduce engineering cycle time.",
+        "Mentored other engineers on best practices, going as far as putting together Surface Model Training."
+      ]
+    },
+    {
+      "id": 7,
+      "contract": false,
+      "positionTitle": "Design Engineer",
+      "summary": "Product Design Consulting",
+      "company": "Porticos, inc",
+      "agency": "none",
+      "location": "Morrisville, NC",
+      "dateTo": "2021-09-29",
+      "dateFrom": "2019-08-15",
+      "responsibilities": [
+        "Used PTC Creo to meet design specifications for functional prototypes.",
+        "Collaborated with cross-functional teams to conceptualize and refine product concepts.",
+        "Researched and designed to requirements in alignment with legal and regulatory controls for the NFPA"
+      ]
+    },
+    {
+      "id": 8,
+      "contract": false,
+      "positionTitle": "Staff Engineer",
+      "summary": "Industial Building and System Design",
+      "company": "Mid-South Engineering Company",
+      "agency": "none",
+      "location": "Cary, NC",
+      "dateTo": "Current",
+      "dateFrom": "2022-01-31",
+      "responsibilities": [
+        "Provided input to team lead regarding areas for process and procedural improvement"
+      ]
+    }
+  ],
+  "other": [
+    {
+      "id": 9,
+      "contract": false,
+      "positionTitle": "Delivery Expert",
+      "summary": "Pizza Delivery Model",
+      "company": "Domino's Pizza",
+      "agency": "none",
+      "location": "Cary, NC",
+      "dateTo": "2011-05-13",
+      "dateFrom": "2009-01-01",
+      "responsibilities": ["Sling Pizza Pies", "Manage Personal Till"]
+    },
+    {
+      "id": 10,
+      "contract": false,
+      "positionTitle": "Everyman",
+      "summary": "Multiple Job Codes",
+      "company": "Kraft Family YMCA",
+      "agency": "none",
+      "location": "Holly Springs, NC",
+      "dateTo": "2009-01-01",
+      "dateFrom": "2004-01-01",
+      "responsibilities": [
+        "Site Coordinator for underpriviliedged teen program and before school care.s",
+        "Office Manager for award-winning afterschool program and summer camp."
+      ]
+    }
+  ]
+}

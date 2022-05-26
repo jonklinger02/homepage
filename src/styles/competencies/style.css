@@ -1,0 +1,25 @@
+.dark {
+  background-color: #262626;
+  color: #fff;
+}
+
+.center {
+  text-align: center;
+}
+
+.brand {
+  padding: 70px 0px 25px 0px;
+}
+
+.container {
+  display: flex;
+  grid-template-columns: 3;
+  justify-content: space-around;
+  column-gap: 7.5px;
+}
+
+.item {
+  place-self: center;
+  height: 300px;
+  padding-bottom: 25px;
+}
