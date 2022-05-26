@@ -6,7 +6,7 @@ import "../styles/header/header.css";
 const Header = () => {
   return (
     <Navbar className='nav-color' variant='dark' sticky='top'>
-      <NavbarBrand href='/home'>Jon Klinger</NavbarBrand>
+      <NavbarBrand to='/homepage'>Jon Klinger</NavbarBrand>
       <Nav>
         <Nav.Item>
           <LinkContainer to='/home'>
