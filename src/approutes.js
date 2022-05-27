@@ -8,7 +8,7 @@ import Resume from "./components/resume";
 import Competencies from "./components/competencies";
 
 const AppRoutes = () => (
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter>
     <Header />
     <MainLayout bg='dark'>
       <Routes>
