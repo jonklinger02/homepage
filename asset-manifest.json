@@ -14,7 +14,7 @@
     "main.7c2c02cd.js.map": "/homepage/static/js/main.7c2c02cd.js.map"
   },
   "entrypoints": [
-    "/static/css/main.faae1354.css",
-    "/static/js/main.7c2c02cd.js"
+    "/homepage/static/css/main.faae1354.css",
+    "/homepage/static/js/main.7c2c02cd.js"
   ]
 }
