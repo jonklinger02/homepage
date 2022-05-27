@@ -1,9 +1,9 @@
 import { Carousel } from "react-bootstrap";
 import React from "react";
-import photo1 from "../../img/photo1.jpeg";
-import photo2 from "../../img/photo2.jpeg";
-import photo3 from "../../img/photo3.jpeg";
-import photo4 from "../../img/photo4.jpeg";
+import photo1 from "../img/photo1.jpeg";
+import photo2 from "../img/photo2.jpeg";
+import photo3 from "../img/photo3.jpeg";
+import photo4 from "../img/photo4.jpeg";
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 const Home = () => {
