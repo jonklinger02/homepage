@@ -14796,10 +14796,10 @@
       });
       (Zt.displayName = "Carousel"), (Zt.defaultProps = qt);
       var Xt = Object.assign(Zt, { Caption: Bt, Item: $t }),
-        Yt = t.p + "./homepage/static/media/photo1.a3663af643ebce069d73.jpeg",
-        Gt = t.p + "./homepage/static/media/photo2.3b9f7866443712f7bfd1.jpeg",
-        Jt = t.p + "./homepage/static/media/photo3.685a0c457c062c004a5c.jpeg",
-        er = t.p + "./homepage/static/media/photo4.fcebb8641fbd6d6d4ec1.jpeg",
+        Yt = t.p + "/static/media/photo1.a3663af643ebce069d73.jpeg",
+        Gt = t.p + "/static/media/photo2.3b9f7866443712f7bfd1.jpeg",
+        Jt = t.p + "/static/media/photo3.685a0c457c062c004a5c.jpeg",
+        er = t.p + "/static/media/photo4.fcebb8641fbd6d6d4ec1.jpeg",
         nr = function () {
           return (0, k.jsx)(k.Fragment, {
             children: (0, k.jsxs)(Xt, {
@@ -15341,14 +15341,11 @@
           });
         };
       var yr =
-        t.p +
-        "./homepage/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg";
-      var br =
-        t.p +
-        "./homepage/static/media/creo.63856eaa68ffaa744679618d23227b43.svg";
+        t.p + "/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg";
+      var br = t.p + "/static/media/creo.63856eaa68ffaa744679618d23227b43.svg";
       var xr =
           t.p +
-          "./homepage/static/media/VSCode-Icon.5f6c87ee85944898b6682f2a2a13df91.svg",
+          "/static/media/VSCode-Icon.5f6c87ee85944898b6682f2a2a13df91.svg",
         wr = function () {
           return (0, k.jsx)(k.Fragment, {
             children: (0, k.jsxs)("div", {
