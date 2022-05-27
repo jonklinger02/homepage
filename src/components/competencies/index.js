@@ -1,8 +1,8 @@
 import React from "react";
 import "../../styles/competencies/style.css";
-import ReactLogo from "../../img/React-icon.svg";
-import CreoLogo from "../../img/creo.svg";
-import CodeLogo from "../../img/VSCode-Icon.svg";
+import ReactLogo from "../img/React-icon.svg";
+import CreoLogo from "../img/creo.svg";
+import CodeLogo from "../img/VSCode-Icon.svg";
 
 const Competencies = () => {
   return (
