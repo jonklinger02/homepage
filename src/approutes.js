@@ -13,7 +13,7 @@ const AppRoutes = () => (
     <MainLayout bg='dark'>
       <Routes>
         <Route path='/homepage' element={<Home />} />
-        <Route path='/home' element={<Home />} />
+        {/* <Route path='/home' element={<Home />} /> */}
         <Route path='/components/browsergame' element={<Game />} />
       </Routes>
     </MainLayout>
