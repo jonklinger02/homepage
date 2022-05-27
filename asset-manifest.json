@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "/static/css/main.faae1354.css",
-    "/static/js/main.b86dcb69.js"
+    "./static/js/main.b86dcb69.js"
   ]
 }
