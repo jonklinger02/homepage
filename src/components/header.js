@@ -9,7 +9,7 @@ const Header = () => {
       <NavbarBrand to='/homepage'>Jon Klinger</NavbarBrand>
       <Nav>
         <Nav.Item>
-          <LinkContainer to='/home'>
+          <LinkContainer to='/homepage'>
             <Nav.Link>Home</Nav.Link>
           </LinkContainer>
         </Nav.Item>
