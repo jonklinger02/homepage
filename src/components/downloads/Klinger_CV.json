@@ -1,0 +1,178 @@
+{
+  "name": "Jon Klinger",
+  "professionalDescription": [
+    "Mechanical Engineer, EIT",
+    "Expert Creo Surface Modeling and Engineering"
+  ],
+  "contactInfo": {
+    "phone": "919.628.9098",
+    "email": "jon.klinger02@gmail.com",
+    "LinkedIn": "www.linkedin.com/in/jon-klinger",
+    "website": "www.jonklinger.net"
+  },
+  "workHistory": [
+    {
+      "company": "Phinite, Inc.",
+      "jobTitle": "Mechanical Engineer",
+      "location": "Beulaville, NC",
+      "dates": "Sept 2022 - Jan 2023",
+      "jobType": "Automation Mechanical Design Startup",
+      "roleType": "Direct Hire",
+      "duties": [
+        "Rapidly reduced prototype cost by roughly 35k in a rapidly changing environment with multiple priorities.",
+        "Learned PLC programming and became familiar with VFDs, PLCs, I/Os, and network issues to troubleshoot control systems.",
+        "Provided direction to three technicians, and listened to them about pain points in the assembly and operation.",
+        "Lead design, prototyping, logistics, planning, and cross-funcational team efforts and communication.",
+        "Managed multiple projects, relaying critical information to stakeholders, remaining flexible in a rapidly evolving environment.",
+        "Provided expertise pertaining to business acumen and a variety of engineering disciplines, to include mechanical, civil, controls, information technology, and network security."
+      ]
+    },
+    {
+      "company": "Mid-South Engineering Company",
+      "jobTitle": "Staff Engineer",
+      "location": "Cary, NC",
+      "dates": "Jan 2022 - Sept 2023",
+      "jobType": "Lumber Processing Plant Design and Engineering",
+      "roleType": "Direct Hire",
+      "duties": [
+        "Rapidly came up to speed on the Autodesk suite, including Revit, BIM360, and autoCAD.",
+        "Planned and designed capital projects and coordinated cross-funcational team.",
+        "Investigated, designed, and planned both Greenfield and Brownfield projects."
+      ]
+    },
+    {
+      "company": "Porticos Inc.",
+      "jobTitle": "Design Engineer",
+      "location": "Morrisville, NC",
+      "dates": "Aug 2019 - Sept 2021",
+      "jobType": "Engineering  and Product Design",
+      "roleType": "Direct Hire",
+      "duties": [
+        "Created parametric, manufacturable, class A surface model for a new introduction product from native industrial design files using top down and master model disciplines.",
+        "Used Six-sigma statistical methodologies to dial in tight tolerances to pass NFPA 1802 Standard.",
+        "Designed plastic housing, cast aluminum chassis, and main sealing mechanism.",
+        "Composed 2D Drawings, using ASME Y14.5 daily.",
+        "Edited existing Creo parts without downstream failures, reducing lead time for customers."
+      ]
+    },
+    {
+      "company": "John Deere",
+      "jobTitle": "Product Engineer II, Promoted to Product Engineer III",
+      "location": "Fuquay-Varina, NC",
+      "dates": "Mar 2018 - Aug 2019",
+      "jobType": "Precision Golf Equipment Design and Manufacturing",
+      "roleType": "Contract Role through RFA Engineering",
+      "duties": [
+        "Trained in Geometric Dimensioning and Tolerancing and Model Based Dimensioning, using ASME Y14.5 daily in conjunction with Quality and design.",
+        "Worked with process plans, authored work instructions, Designed in Creo, and used Windchill and SAP to update, obsolete, manage, and release documents.",
+        "Designed new products, created solutions for issues with existing products, and implemented both on the production floor.",
+        "Mentored other engineers on best practices with regards to CAD, Class A Surface Modeling, SAP procedure, and Tolerancing, and editing existing Creo parts without downstream failures."
+      ]
+    },
+    {
+      "company": "Caterpillar, INC",
+      "jobTitle": "Prototype Project Management Engineer for MiniHex Group",
+      "location": "Clayton, NC",
+      "dates": "Mar 2016 - Jan 2017",
+      "jobType": "Heavy Equipment Manufacturing Project Management",
+      "roleType": "Contract Role through EASi, LLC.",
+      "duties": [
+        "Managed daily shop, technician, and machine maintenance orders and activities.",
+        "Planned test bed and prototype builds, implemented tracking strategies for prototype machines to ensure validation efficacy.",
+        "Consolidated and categorized all parts on all models for logistics planning, including grouping, storage, and tracking."
+      ]
+    },
+    {
+      "company": "Newell Rubbermaid",
+      "jobTitle": "R&D Engineer",
+      "location": "Huntersville, NC",
+      "dates": "Apr 2014 - Oct 2015",
+      "jobType": "Consumer Product Design Engineer",
+      "roleType": "Direct Hire",
+      "duties": [
+        "Over 120 hours of Class A Surface Modeling training and multiple design projects with skeleton based Class A Surfaces housed in Windchill, while editing existing Creo parts without downstream failures, reducing lead time.",
+        "Worked on product improvement programs, along with cost reduction programs, and new product design.",
+        "Worked with PPAP, ECO, Specification of materials, Finishes, Assembly specifications.",
+        "Managed part tracking, tooling, documentation, costing, deviations.",
+        "Coordinated Design Reviews.",
+        "Learned advanced surfacing and skeleton model best practices, as well as PLM standard in Windchill"
+      ]
+    },
+    {
+      "company": "Caterpillar, INC",
+      "jobTitle": "Engineer II",
+      "location": "Sanford, NC",
+      "dates": "Mar 2012 - Jan 2014",
+      "jobType": "Off-Road Heavy Equipment",
+      "roleType": "Contract Role through Belcan Engineering",
+      "duties": [
+        "Worked with cross functional teams during NPI cycle to facilitate assembly planning, quality, and prototyping.",
+        "Collaborated with suppliers to coordinate tooling changes, cost mitigation, and deliverables.",
+        "Utilized MiniTab to analyze and effectively seal a frameless polycarbonate door, passed Quality Trainer.",
+        "Supported production with manufacturing issues daily as a continuous improvement engineer in an ISO 9001 environment.",
+        "Modestly picked up Surface Modeling on the fly and sought individual professional training online in Creo."
+      ]
+    },
+    {
+      "company": "CTI Systems - Conveyor Technologies",
+      "jobTitle": "Design Engineer",
+      "location": "Sanford, NC",
+      "dates": "May 2011 - Mar 2012",
+      "jobType": "Industrial PCB Electro-Mechanical Autmation Design and Manufacturing",
+      "roleType": "Direct Hire",
+      "duties": [
+        "Configure and customize conveyors and buffers for printed circuit boards.",
+        "Size servos, linear actuators, belt drives.",
+        "Support assembly and fabrication shops with machine production."
+      ]
+    }
+  ],
+
+  "skills": [
+    ["Creo", "Inventor", "Solidworks", "OnShape"],
+    "DOE - Validation",
+    "DFM/DFA",
+    "Plastics Design",
+    "Mentoring",
+    "Geometric Dimensioning and Tolerancing"
+  ],
+
+  "Education": {
+    "Degree": "Bachelor of Science, Mechanical Engineering",
+    "School": "North Carolina State University",
+    "GraduationDate": "May 2011"
+  },
+
+  "Patents": {
+    "PatentNumber": "US 20160206095 A1",
+    "PatentTitle": "Universal connector bracket for a storage system.",
+    "IssuingAuthority": "USPTO"
+  },
+
+  "AchievmentsAndInvolvement": [
+    {
+      "item": "Collaboration Award.",
+      "entity": "Newell Rubbermaid Design Summit."
+    },
+    {
+      "item": "Red Triangle Award for Program Exellence",
+      "entity": "YMCA of the Triangle."
+    },
+    {
+      "item": "Volunteer Football Coach.",
+      "entity": "Southeast Raleigh High School."
+    }
+  ],
+
+  "interests": [
+    "Philanthropy",
+    "Solar Power",
+    "Hunting",
+    "Habitat Conservation",
+    "Boating",
+    "Sports and Coaching",
+    "Lifetime Education",
+    "Regenerative Farming and Gardening",
+    "Energy Conservation"
+  ]
+}

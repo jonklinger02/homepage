@@ -1,0 +1,25 @@
+{
+  "ref1": {
+    "name": "Ryan Springer",
+    "company": "Titan Medical",
+    "title": "Senior Engineer",
+    "email": "ryanspringerme@gmail.com",
+    "phone": "704.607.3728"
+  },
+
+  "ref2": {
+    "name": "Sean Ahr",
+    "company": "Porticos, Inc",
+    "title": "Director of Engineering",
+    "email": "sean.ahr@porticos.net",
+    "phone": "919.468.0033 x152"
+  },
+
+  "ref3": {
+    "name": "Adam Helton",
+    "company": "RFA Engineering",
+    "title": "Site Director - John Deere Fuquay",
+    "email": "ahelton@rfamech.com",
+    "phone": "937.231.1986"
+  }
+}

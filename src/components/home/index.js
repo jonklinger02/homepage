@@ -22,21 +22,18 @@ const Home = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img className='d-block w-100' src={photo2} alt='Second slide' />
-
           <Carousel.Caption>
             <h3>Interested in their Environment</h3>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className='d-block w-100' src={photo3} alt='Third slide' />
-
           <Carousel.Caption>
             <h3>Compassionately Caring</h3>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className='d-block w-100' src={photo4} alt='Third slide' />
-
           <Carousel.Caption>
             <h3>With Neo-Traditional Family Values</h3>
           </Carousel.Caption>

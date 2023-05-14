@@ -17,6 +17,9 @@ const Header = () => {
           <LinkContainer to='./components/browsergame'>
             <Nav.Link>Browser Game</Nav.Link>
           </LinkContainer>
+          <LinkContainer to='./components/wastecalc'>
+            <Nav.Link>Waste Calc</Nav.Link>
+          </LinkContainer>
         </Nav.Item>
       </Nav>
     </Navbar>
