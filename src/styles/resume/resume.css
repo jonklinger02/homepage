@@ -1,0 +1,19 @@
+.btn-dark {
+  background-color: #262626 !important;
+}
+
+.container {
+  display: flex;
+  grid-template-columns: 3;
+  justify-content: space-around;
+  column-gap: 7.5px;
+  padding: 0px 0px 15px 0px;
+}
+
+.inactive {
+  visibility: hidden;
+}
+
+.active {
+  visibility: visible;
+}

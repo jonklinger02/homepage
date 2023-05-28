@@ -17,8 +17,10 @@ const Header = () => {
           <LinkContainer to='./components/browsergame'>
             <Nav.Link>Browser Game</Nav.Link>
           </LinkContainer>
+        </Nav.Item>
+        <Nav.Item>
           <LinkContainer to='./components/wastecalc'>
-            <Nav.Link>Waste Calc</Nav.Link>
+            <Nav.Link>Waste Calculator</Nav.Link>
           </LinkContainer>
         </Nav.Item>
       </Nav>

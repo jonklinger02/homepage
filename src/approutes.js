@@ -12,7 +12,6 @@ import Contact from "./components/contact";
 function AppRoutes() {
   return (
     <BrowserRouter>
-      <Contact />
       <Header />
       <MainLayout bg='dark'>
         <Routes>
@@ -22,6 +21,7 @@ function AppRoutes() {
           <Route path='/components/wastecalc' elecment={<WasteCalc />} />
         </Routes>
       </MainLayout>
+      <Contact />
       <Resume />
       <Competencies />
     </BrowserRouter>
